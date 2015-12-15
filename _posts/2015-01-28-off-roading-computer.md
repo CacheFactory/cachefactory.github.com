@@ -13,6 +13,8 @@ I don't have a schematic, if you want me to make a schematic let me know.
 
 The LCD and position sensor run data on a I2C bus. The computer is powered by a 12v to 5v power converter. I made the holes for the button and LCD switch using a Dremel Drill. I wired the power into the stereo circuit. 
 
+[Hackaday.io project page](https://hackaday.io/project/8047-jeep-offroading-computer)
+
 ### Parts
 
 - [Arduino Nano](http://www.amazon.com/gp/product/B00761NDHI/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&linkCode=as2)
@@ -24,9 +26,8 @@ The LCD and position sensor run data on a I2C bus. The computer is powered by a 
 
 ### Images
 
-![overview](https://raw.githubusercontent.com/CacheFactory/offroading_computer/master/markdown-assets/overview.jpg)
-![insides](https://raw.githubusercontent.com/CacheFactory/offroading_computer/master/markdown-assets/insides.jpg)
-![install](https://raw.githubusercontent.com/CacheFactory/offroading_computer/master/markdown-assets/install.jpg)
+![overview]({{ site.url }}/assets/images/off_roading_computer_1.jpg)
+![insides]({{ site.url }}/assets/images/off_roading_computer_2.jpg)
 
 ### Code
 

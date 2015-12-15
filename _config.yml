@@ -1,6 +1,6 @@
 # This is the default format. 
 # For more see: http://jekyllrb.com/docs/permalinks/
-permalink: /:categories/:year/:month/:day/:title 
+permalink: /:year/:month/:day/:title 
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 highlighter: pygments
@@ -14,7 +14,7 @@ author :
   name : Eddie Anderson
   email : ejanderson4@gmail.com
   github : CacheFactory
-  twitter : CacheFactory
+  facebook : eddieanderson86
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
