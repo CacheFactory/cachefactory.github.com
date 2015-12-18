@@ -1,8 +1,12 @@
 ---
 layout: page
-title: Make interesting things
+title: Welcome
 ---
 
+<h1>
+  About
+</h1>
+<a href="/about.html">About me</a>
 <h1>
   Posts
 </h1>
