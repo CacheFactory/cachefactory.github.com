@@ -27,6 +27,7 @@ The LCD and position sensor run data on a I2C bus. The computer is powered by a 
 ### Images
 
 ![overview]({{ site.url }}/assets/images/off_roading_computer_1.jpg)
+<br/>
 ![insides]({{ site.url }}/assets/images/off_roading_computer_2.jpg)
 
 ### Code
