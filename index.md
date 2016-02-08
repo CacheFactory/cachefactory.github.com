@@ -6,7 +6,8 @@ title: Welcome
 <h1>
   About
 </h1>
-<a href="/about.html">About me</a>
+<a href="/about.html">About me</a><br>
+<a href="https://www.facebook.com/eddieanderson86">Facebook profile</a>
 <h1>
   Posts
 </h1>
