@@ -18,6 +18,21 @@ title: Welcome
   {% endfor %}
 </ul>
 
+<h2>Minesweeper</h2>
+<a href="https://github.com/CacheFactory/Minesweeper">Github page</a>
+<div class="minesweeper"></div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/backbone.js/1.2.3/backbone-min.js"></script>
+<script src="/assets/js/minesweeper-interface.js"></script>
+<script src="/assets/js/minesweeper.js"></script>
+
+<script>
+  $(document).ready(function(){
+    var gameView = new GameView({el: $('.minesweeper') });
+    gameView.render();
+  })
+</script>
 
 
 
